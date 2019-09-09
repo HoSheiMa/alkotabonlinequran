@@ -1,0 +1,133 @@
+[16-Jan-2019 02:17:16 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:19 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:20 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:21 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:22 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:23 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:24 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:25 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:26 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 02:17:27 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 06:00:18 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 06:13:51 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(44): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 06:13:55 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(44): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[16-Jan-2019 06:15:31 UTC] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 16 J...', 'This is a multi...')
+#2 /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/kshafa/public_html/nshama.net/reset/reset_acc.php(44): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/kshafa/public_html/nshama.net/reset/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[17-Jan-2019 05:30:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:36:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:36:55 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:36:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:37:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:37:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:37:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:38:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:2) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 3
+[17-Jan-2019 05:49:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 05:49:34 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 05:49:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 17:34:58 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 17:34:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 17:35:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[17-Jan-2019 17:36:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[18-Jan-2019 00:55:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[03-Feb-2019 06:48:38 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[03-Feb-2019 06:48:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[03-Feb-2019 06:51:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[03-Feb-2019 06:51:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14
+[03-Feb-2019 06:51:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kshafa/public_html/nshama.net/reset/redir.php:13) in /home/kshafa/public_html/nshama.net/reset/redir.php on line 14

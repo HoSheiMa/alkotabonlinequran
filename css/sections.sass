@@ -1,0 +1,414 @@
+.loading-page 
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999;
+    position: fixed;
+    background-color: aliceblue;
+
+  
+
+@import './assets/_alert.sass';
+
+
+
+
+.body-tec
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    .container
+        width: 100vw;
+        .total-info
+            div.col-6
+                display: flex
+                justify-content: center
+                align-items: center;
+                .tec-card
+                    width: 90%
+                    height: 120px
+                    margin: 8px;
+                    padding: 8px;
+                    background-color: #ffffff
+                    border-radius: 8px
+                    box-shadow: 0 0 4px rgba(0, 0, 0, .1)
+                    overflow: hidden
+                    .tec-card-title
+                        color: #2E2E2E
+                        font-size: 21px
+                        &::before
+                            content: '';
+                            width: 25px;
+                            margin-top: 35px;
+                            height: 2px;
+                            background-color: #ffbb33
+                            position: absolute
+
+
+                    .tec-card-value
+                        padding-top: 10px
+                        display: flex;
+                        justify-content: flex-start;
+                        align-items: baseline;
+                        h3, .icon
+                            display: inline
+                            font-size: 24px;
+                        .icon
+                            margin: 4px
+                .overicon
+                    position: relative;
+                    float: right;
+                    margin-top: -30px;
+                    font-size: 76px;
+                    opacity: .3;
+
+        .Meet-list
+
+.profile-section
+    width: 25vw;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #0D121C
+    .see--loading
+        width: 100%;
+        height: 100%
+        display: flex;
+        justify-content: center
+        align-items: center;
+        span
+            font-size: 21px
+            color: #ffffff
+    .wrap
+        display: none;
+        .close-btn
+            width: 100%;
+            display: flex;
+            padding: 5px
+            justify-content: flex-end
+            align-items: flex-end;
+            i
+                font-size: 21px
+                color: #ffffff
+        .profile__img
+            width: 100%
+            height: 40%;
+            display: flex;
+            justify-content: center
+            align-items: center;
+            img
+                width: 80%
+                height: 80%;
+                border-radius: 50%;
+        .u-info
+            display: flex;
+            justify-content: center
+            align-items: center
+            flex-direction: column
+            padding: 20px;
+            span
+                color: white;
+                font-size: 22px; 
+                display: block     
+                margin: 6px 
+            .form
+                border-radius: 4px;
+                background-color: #fff;
+                margin: 15px;
+                padding: 20px;
+                display: flex
+                align-items: center
+                flex-direction: column
+
+
+
+.teacher-profile
+    position: relative;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+    padding: 15px;
+    .loading
+        position: relative
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h3
+            color: #000000;
+
+    .teacher-profile-contxt
+        display: none;
+        // display: flex;
+        flex-direction: column
+        width: 100%;
+        height: 100%;
+        .top-s
+            width: 100%;
+            min-height: 300px;
+            display: flex;
+            flex-direction: row;
+            img
+                // border-radius: 50%;
+                height: 300px;
+                width: 300px;
+            .info
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                margin: 35px;
+                .name
+                    margin: 0
+                .email
+                    margin: 0
+                    color: #4285F4
+                .info_
+                    margin: 5px 0 0 0 
+        .title
+            margin: 15px;
+            color: #212121
+        .line
+            width: 100%;
+            background-color: #dddddd;
+            height: 2px;
+            margin: 15px;
+
+        .teacher-cv
+            width: 100%;
+            margin: 15px;
+            text-align: center;
+            border-radius: 8px;
+            min-height: 300px;
+            background: #36D1DC;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            .cv-card
+                height: 100%;
+                max-height: 250px
+                display: inline-block
+                width: 350px;
+                box-sizing: border-box
+                padding: 15px;
+                img
+                    width: 100%;
+                    height: 100%;
+                    border-radius: 16px;
+                    transition: .4s
+                    &:hover
+                        box-shadow: 0 0 10px rgba(0, 0, 0, 0.8)
+
+.options_bar
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 9999999;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box
+    .bar
+        height: 100%;
+        width: 250px;
+        background-color: #0099CC
+        transition: .4s;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box
+        .dashboardlogo
+            background-color: #f0f8ff;
+            width: 100%;
+            height: 70px;
+            display: flex;
+            justify-content: center;
+            align-items: center
+            flex-direction: column
+            padding: 5px;
+            margin-bottom: 20px;
+            img
+                width: 80%;
+                height: 60px;
+        .bar_option
+            cursor: pointer
+            width: 100%;
+            height: 60px;
+            margin-top: 3px;
+            margin-bottom: 3px;
+            background-color: rgba(0,0,0,.3);
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            transition: .3s;
+            &:hover
+                background-color: rgba(0,0,0,.6);
+
+            .bar_option_icon
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                i
+                    color: #ffffff;
+                    font-size: 24px;
+            .bar_option_title
+                width: 80%;
+                height: 100%;
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                span
+                    color: #ffffff;
+                    font-size: 17px;
+                    font-weight: bold;
+
+    .bar-off
+        width: 0px !important;
+        .bar_option, .dashboardlogo
+            display: none !important    
+    .slider
+        height: 50px;
+        width: 30px;
+        display: flex
+        justify-content: center
+        align-items: center
+        border-radius: 0 50% 50% 0;
+        background-color: #0099CC !important
+        cursor: pointer
+        .icon
+            color : #ffffff
+            font-size: 17px !important 
+
+.View_admin_contxt.loading
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    .icon
+        display: inline-block !important
+        font-size: 24px;
+    .contxt
+        display: none !important;
+    
+    
+
+.View_admin_contxt
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    .cash-card
+        border-radius: 4px;
+        transition: .3s;
+        &:hover
+            box-shadow: 0 0 10px rgba(0,0,0,.2);
+
+        .btn-cash
+            border: 1px solid;
+            border-radius: 4px;
+            width: 100px;
+            cursor: pointer;
+            box-shadow: 0 0 4px argb(0,0,0,.2);
+    .icon
+        display: none;
+        font-size: 24px;
+    .contxt
+        width: 100%;
+        height: 100%;
+        padding: 25px;
+        // #UsersLog
+        //     width:  60% !important;
+        //     height: 400px !important;
+
+        .UsersStateBLANK
+            display: flex;
+            justify-content: center
+            align-items: center;
+            #UsersState
+                width: 100% !important;
+                height: 40% !important;
+
+        .table
+            .link-action
+                // border-right: 1px solid black;
+                padding-right: 10px;
+                cursor: pointer
+                font-size: 12px;
+            tbody
+                tr
+                    td
+                        img
+                            height: 50px;
+                            widows: 50px;
+
+.cards-deals-section
+    display: flex;
+    width: 100%;
+    min-height: 100%;
+    // justify-content: center;
+    flex-direction: column
+    align-items: center;
+
+    .deal-card
+        background: #00B4DB; 
+        background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  
+        background: linear-gradient(to right, #0083B0, #00B4DB);
+        width: 80%;
+        height: 100%;
+        min-height: 200px;
+        box-shadow: 0 0 10px rgba(0,0,0,.2)
+        border-radius: 16px;
+        padding-left: 10%;
+        margin-bottom: 5px;
+        
+        .deal-card-title
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 15px;
+            img
+                width: 80px;
+            span
+                color: white;
+                font-size: 72px;
+                height: 100%;
+                width: 100%;
+        .deal-card-bottom-bar
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            color: white;
+            a
+                color: white;
+                font-size: 21px;
+                margin-top: 15px;
+                margin-bottom: 15px;
+                cursor: pointer;
+
+    
+@media (max-width: 576px)
+    .deal-card
+        width: 100% !important;
+
+    .deal-card-title
+        flex-direction: column!important;
+        justify-content: flex-start!important;
+        align-items: end!important;
+        img
+            display: block!important
+        span
+            font-size: 45px !important;
+            margin-top: 5px;
+            margin-bottom: 5px;
+    .deal-card-bottom-bar
+         width: 100%;
+    .teacher-profile
+        margin: 0 !important
+        padding: 0 !important
+        padding-top: 5px !important
+        .teacher-cv
+            margin: 0 !important
