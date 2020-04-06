@@ -11,13 +11,13 @@ function Create_New_Email($name, $email, $password) {
 
     // form of sql to create a new email address
     $q = "INSERT INTO
-     `users`(`email`, `pass`, `name`, `profile_img`,`BLOCK_STATE`, `freeCoursestrial`, `permission`) 
-     VALUES ('$email','$password','$name', 'default.png','false', '[]', '" . 
+     `users`(`email`, `pass`, `name`, `profile_img`,`BLOCK_STATE`, `freeCoursestrial`,`BuyHoursInDeal`,  `permission`) 
+     VALUES ('$email','$password','$name', 'default.png','false', '[]','0', '" . 
 
      "{\"permission\" : \"No-admin-permission\" }')";
 
 
-    //  echo $q;
+     //echo $q;
     // checking process
     if (mysqli_query($c, $q)){
 
